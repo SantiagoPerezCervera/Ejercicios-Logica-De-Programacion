@@ -15,4 +15,4 @@ function calcularFactorial() {
 
     resultadoElement.textContent = factorial;
 }
-document.getElementById("Factorial").onclick = calcularFactorial;
+document.getElementById("mostrar").onclick = calcularFactorial;

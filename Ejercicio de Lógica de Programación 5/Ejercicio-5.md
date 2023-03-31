@@ -4,7 +4,7 @@
 
 - Crear un programa en `JavaScript` que realice lo siguiente:
 
-- Pedir al usuario por prompt o input un número del 1 al 100 para adivinar un número secreto.
+- Pedir al usuario por input un número del 1 al 100 para adivinar un número secreto.
 
 
 - Input
